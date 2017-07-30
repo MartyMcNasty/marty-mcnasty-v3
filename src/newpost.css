@@ -1,0 +1,38 @@
+
+.newpost{
+  width: auto;
+  height: 400px;
+  padding: 20px 40px;
+  margin: 60px;
+  font-weight: 500;
+}
+
+p {
+  
+}
+
+.date-time {
+display:flex;
+justify-content: space-between;
+margin-bottom: 20px;
+}
+.date,.time {
+margin: 0 5px;
+}
+
+.time {
+
+}
+
+
+
+.post img {
+  width: auto;
+  height: 400px;
+}
+
+.caption{
+  margin: 20px 0;
+  font-size: 16px;
+
+}
